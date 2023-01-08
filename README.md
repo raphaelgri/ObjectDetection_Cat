@@ -3,13 +3,13 @@ Object detection using Tensorflow Object Detection API.
 
 ## References
 
-This project is based in the tutorial provided in : https://gilberttanner.com/blog/object-detection-with-tensorflow-2/
+This project is based in the [tutorial](https://gilberttanner.com/blog/object-detection-with-tensorflow-2/) providade by Gilbert Tanner.
 
-The notebook was run using google colab in a different dataset
+The notebook was run using google colab in a custom dataset created by myself.
 
 ## Dataset
 
-The dataset is comprised of 107 images and 107 annotations. Part of the images was aquired via google images and the remaining are personal images of my pet cat or pictures I had saved from other cats. All the annotations were provided by me, using label-studio.
+The dataset is comprised of 107 images and 107 annotations. Part of the images was aquired via google images and the remaining are personal images of my pet cat or pictures I had saved from other cats. All the annotations were provided by me, using label-studio. In this repository, it will be archive.zip, which contains the image files, the annotations and two .csv files containing the labels in a format readable by tensorflow API.
 
 ## Model
 
