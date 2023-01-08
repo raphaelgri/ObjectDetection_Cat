@@ -3,9 +3,9 @@ Object detection using Tensorflow Object Detection API.
 
 ## References
 
-This project is based in the [tutorial](https://gilberttanner.com/blog/object-detection-with-tensorflow-2/) providade by Gilbert Tanner.
+This project is based in the [tutorial](https://gilberttanner.com/blog/object-detection-with-tensorflow-2/) provided by Gilbert Tanner.
 
-The notebook was run using google colab in a custom dataset created by myself.
+The notebook was run using google colab in a custom Dataset created by myself.
 
 ## Dataset
 
